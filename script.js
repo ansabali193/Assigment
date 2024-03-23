@@ -1,5 +1,3 @@
-//Chapter 2
-
 //Question # 1:
 let username;
 //
@@ -15,7 +13,7 @@ alert(message);
 let myname = "Ansab Ali";
 let Age = 22;
 let Qualification = "DAE Engineering";
-let Hobbies = "Football and Coding";
+let Hobbies = "Circket and coding";
 
 //display in the alert box
 let Mybiodata = "(My Bio Data)";
@@ -35,7 +33,7 @@ alert(emailaddress);
 //
 
 //Question # 7:
-let book = "A smarter way to learn JavaScript";
+let book = "JavaScript";
 
 //display in the alert box
 alert("I am currently reading the book: '" + book + "'");
@@ -47,7 +45,7 @@ document.write("Yah! I can write HTML content through JavaScript");
 
 //Question # 9:
 let specialstring = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
-// Display the string in an alert box
+//string in an alert box
 alert(specialstring);
 
 // Display the string in the browser
@@ -73,16 +71,4 @@ let 99ansab ali
 let "ansab ali"
 let @ansab ali
 let (ansab ali)*/
-//
-
-//Question # 3
-document.write("<h1>Rules for naming JS variables</h1>");
-document.write(
-  "<p></p>Variable names can only contain ,numbers,$ and _ . For example : $my_1stVariable</p>"
-);
-document.write(
-  "<p>Variables must begin with a letter,$ or_ . For example : $name, _name or name</p>"
-);
-document.write("<p></p>Variable names are case-sensitive</p>");
-document.write("<p></p>Variable names should not be JavaScript keywords</p>");
 //
